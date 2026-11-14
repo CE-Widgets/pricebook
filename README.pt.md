@@ -1,17 +1,16 @@
-# Browser for LoTW
+# Personal Price Book
 
 [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · **Português** · [Italiano](README.it.md) · [Español](README.es.md)
 
-**Estado:** 🟢 Produção · **Versão:** `2026.08.21-1`
+**Estado:** Teste interno
+**Versão atual de teste interno:** `2026.11.12-24`
 
-![Browser for LoTW](docs/feature/ptPT_lotw-manifest2-1024.png)
+![Imagem de destaque do Personal Price Book](docs/feature-graphic.png)
 
-Uma aplicação Android para consultar, pesquisar, ordenar e filtrar registos do ARRL Logbook of The World (LoTW).
+## Saiba o que pagou. Compare o seu histórico.
 
-[Disponível no Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw)
+Personal Price Book é uma aplicação Android para manter um registo simples das suas próprias compras e preços. Escreva ou dite uma lista, ou adicione uma compra manualmente; reveja os detalhes reconhecidos antes de guardar e compare o seu próprio histórico na próxima compra.
 
-## Capturas de ecrã
+A aplicação é uma referência pessoal, não um serviço de preços de retalhistas. O histórico guardado permanece no dispositivo; atualmente não há sincronização na nuvem, exportação ou recuperação.
 
-<p><img src="docs/screenshots/pt/po_1.png" alt="Browser for LoTW: lista de registos" width="180"> <img src="docs/screenshots/pt/po_2.png" alt="Browser for LoTW: ordenação e filtragem" width="180"> <img src="docs/screenshots/pt/po_3.png" alt="Browser for LoTW: detalhes QSO" width="180"> <img src="docs/screenshots/pt/po_4.png" alt="Browser for LoTW: transferência" width="180"> <img src="docs/screenshots/pt/po_5.png" alt="Browser for LoTW: informações e suporte" width="180"></p>
-
-A documentação técnica completa e os avisos legais estão disponíveis em [inglês](README.md).
+A documentação completa e as informações jurídicas estão disponíveis em [inglês](README.md).

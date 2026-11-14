@@ -1,68 +1,72 @@
-# Browser for LoTW
+# Personal Price Book
 
 [English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Español](README.es.md)
 
-**Status:** 🟢 Production
-**Current version:** `2026.08.21-1`
+**Status:** Internal testing
+**Current internal-test version:** `2026.11.12-24`
 
-![Browser for LoTW feature graphic showing the Android client and Browse, Search, Sort, and Filter features](docs/feature/en_lotw-manifest2-1024.png)
+![Personal Price Book feature graphic](docs/feature-graphic.png)
 
-## Google Play
+## Know what you paid. Compare your history.
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw)
+Personal Price Book is an Android app for keeping a simple personal record of
+what you paid. Add purchases by typing a list, dictating a list, or entering a
+purchase manually; review the recognized details before saving anything; then
+compare your own purchase history the next time you shop.
 
-## Overview
-
-Browser for LoTW is an Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
-
-Available now on Google Play.
+The app is a personal reference, not a retailer price feed. Its comparisons
+use the information you save and can be incomplete when a purchase does not
+include enough quantity or package information for a like-for-like comparison.
 
 ## Features
 
-- Download LoTW records directly from ARRL
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Offline browsing and local storage
-- Demo mode
-- Language selection: English, French, German, Italian, Portuguese, and Spanish
+- Type a purchase list, dictate it, or add a purchase manually
+- Review, correct, confirm, or reject recognized purchase drafts before saving
+- Keep saved product and purchase history locally on the Android device
+- Browse a product's purchase history and compare like quantities within the
+  same unit
+- Edit or delete saved purchases
+- No account or registration required
 
-## Screenshots
+## Privacy and current limitations
 
-<p>
-  <img src="docs/screenshots/records-list.png" alt="Browser for LoTW records list showing QSO and QSL information" width="180">
-  <img src="docs/screenshots/sort-and-filter.png" alt="Browser for LoTW sort and filter controls" width="180">
-  <img src="docs/screenshots/qso-details.png" alt="Browser for LoTW expanded QSO detail view" width="180">
-  <img src="docs/screenshots/download-records.png" alt="Browser for LoTW screen for fetching and managing downloaded records" width="180">
-  <img src="docs/screenshots/about-and-support.png" alt="Browser for LoTW About screen with support and privacy options" width="180">
-</p>
+Saved price history remains on the device. Removing the app, clearing its
+data, or replacing the device can erase that history; there is currently no
+cloud sync, export, or recovery feature.
 
-## Repository Purpose
+Typed purchase-list text is sent for parsing only when you request review. A
+dictated recording is sent for transcription only after you tap Stop, and the
+app deletes the recording after transcription succeeds or fails. See the
+[Privacy Policy](https://champagne.engineering/privacy) before entering
+information you do not want processed.
 
-This public repository is maintained for Browser for LoTW documentation, release notes, and issue tracking. It does not contain the application source code.
+Telemetry-enabled builds send a closed, content-free workflow measurement. It
+does not include purchase text, recordings, transcripts, product or store
+names, quantities, prices, or purchase dates. Raw measurement events are
+retained for no more than 90 days.
 
-## Documentation
+## Repository purpose
 
-Additional documentation is available in the [docs](docs/) directory.
+This public repository contains Personal Price Book documentation, release
+notes, store graphics, and issue-tracking material. It does not contain the
+Android application source code or any production credential.
 
-- [Release Notes](docs/release-notes.md)
-- [Product Page](https://champagne.engineering/browser-for-lotw)
+## Resources
+
+- [Personal Price Book product page](https://champagne.engineering/personal-price-book)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)
+- [Documentation](docs/README.md)
 
 ## Support
 
 Website: https://champagne.engineering
-
 Email: support@champagne.engineering
 
-## Copyright and Disclaimer
+## Copyright
 
 © 2026 Champagne Engineering, LLC. All rights reserved.
 
-Unauthorized copying, modification, or redistribution is prohibited. Official distributions are available only through Champagne Engineering-authorized channels.
-
-Browser for LoTW is an independent application developed under the CE Widgets brand by Champagne Engineering, LLC. It is not affiliated with, endorsed by, or sponsored by the American Radio Relay League (ARRL).
-
-“LoTW” and “Logbook of The World” are trademarks of The American Radio Relay League, Inc., used solely to describe compatibility with the LoTW service.
+Personal Price Book is an independent application developed under the CE
+Widgets brand by Champagne Engineering, LLC. It is not affiliated with or
+endorsed by any retailer.
