@@ -1,7 +1,5 @@
 # Personal Price Book
 
-[English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Português](README.pt.md) · [Italiano](README.it.md) · [Español](README.es.md)
-
 **Status:** Internal testing
 **Current internal-test version:** `2026.11.12-24`
 
