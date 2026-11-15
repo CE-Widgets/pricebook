@@ -1,7 +1,7 @@
 # Personal Price Book
 
-**Status:** Internal testing
-**Current internal-test version:** `2026.11.12-24`
+**Status:** In production
+**Current version:** `2026.11.15-25`
 
 ![Personal Price Book feature graphic](docs/feature-graphic.png)
 
@@ -51,6 +51,7 @@ Android application source code or any production credential.
 
 ## Resources
 
+- [Get Personal Price Book on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook)
 - [Personal Price Book product page](https://champagne.engineering/personal-price-book)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)

@@ -1,12 +1,13 @@
 # Personal Price Book documentation
 
-Personal Price Book is currently in internal testing. This directory contains
-the public documentation and store artwork associated with that test build.
+Personal Price Book is in production. This directory contains the public
+documentation and store artwork associated with the released Android app.
 
 ## Contents
 
 - [Release notes](release-notes.md)
 - [Feature graphic](feature-graphic.png)
+- [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook)
 - [Product page](https://champagne.engineering/personal-price-book)
 - [Privacy Policy](https://champagne.engineering/privacy)
 
@@ -19,7 +20,8 @@ after the user taps Stop, and the application deletes the recording after a
 successful or failed transcription. See the Privacy Policy before entering
 information the user does not want processed.
 
-## Internal-test release
+## Current release
 
-The current internal-test build is `2026.11.12-24`. It is not a public Google
-Play release and this repository does not provide an installation package.
+The current production build is `2026.11.15-25`, available on
+[Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook).
+This repository does not provide an installation package.
