@@ -1,6 +1,6 @@
 # Personal Price Book
 
-**Status:** In production
+**Status:** 🟢 Production
 **Current version:** `2026.11.15-25`
 
 ![Personal Price Book feature graphic](docs/feature-graphic.png)
@@ -43,6 +43,17 @@ does not include purchase text, recordings, transcripts, product or store
 names, quantities, prices, or purchase dates. Raw measurement events are
 retained for no more than 90 days.
 
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/1.png" alt="Add a purchase list by typing or dictating" width="180">
+  <img src="docs/screenshots/2.png" alt="Review extracted purchase details before saving" width="180">
+  <img src="docs/screenshots/3.png" alt="Confirm reviewed purchase items" width="180">
+  <img src="docs/screenshots/5.png" alt="Browse saved products and recent prices" width="180">
+  <img src="docs/screenshots/10.png" alt="Review saved purchase price history" width="180">
+  <img src="docs/screenshots/12.png" alt="Dictate a purchase list" width="180">
+</p>
+
 ## Repository purpose
 
 This public repository contains Personal Price Book documentation, release
@@ -51,7 +62,7 @@ Android application source code or any production credential.
 
 ## Resources
 
-- [Get Personal Price Book on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook)
+- [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook)
 - [Personal Price Book product page](https://champagne.engineering/personal-price-book)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)

@@ -7,6 +7,7 @@ documentation and store artwork associated with the released Android app.
 
 - [Release notes](release-notes.md)
 - [Feature graphic](feature-graphic.png)
+- [Screenshots](screenshots/)
 - [Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.personalpricebook)
 - [Product page](https://champagne.engineering/personal-price-book)
 - [Privacy Policy](https://champagne.engineering/privacy)
